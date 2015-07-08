@@ -14,7 +14,7 @@ public class StringDemo {
 		 System.out.println(c);
 		 String s = "abc"; 
 		 System.out.println(s);
-		 System.out.println("abc"+\n+c);
+		 System.out.println("abc"+c);
 		 // 알파벳 하나만 출력할 경우는 char 타입을사용하고 
 		 // 하나 이상 복수의 문자열을 출력할때는
 		 // String  타입을 사용한다.

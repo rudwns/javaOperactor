@@ -5,7 +5,7 @@ package ifCondition;
  * @ Author : me 
  * @ Story : if만 있는 구문 에 관한 문법
  */
-public class OnlyIf {
+public class AntippetenOnlyIf {
 
 	public static void main(String[] args) {
 		/*
