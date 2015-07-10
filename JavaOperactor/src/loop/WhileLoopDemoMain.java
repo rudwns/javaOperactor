@@ -1,4 +1,4 @@
-package whileLoop;
+package loop;
 /*
  * Date : 2015.07.09
  * Author : me
@@ -17,7 +17,7 @@ public class WhileLoopDemoMain {
 		 int idx =1;
 		 while (idx < 11 ) {
 			System.out.print(idx + "\t");
-			idx--; // 단항 연산식으로 기본 idx 값에 회전때 마다 1씩 증가 
+			idx++; // 단항 연산식으로 기본 idx 값에 회전때 마다 1씩 증가 
 		}
 
 	}
