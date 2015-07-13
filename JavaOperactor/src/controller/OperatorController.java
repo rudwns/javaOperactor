@@ -4,6 +4,7 @@ import condition.ArithmeticCalc;
 import condition.CalcAvg;
 import condition.ManOrWoman;
 import condition.SwitchAvg;
+import loop.EvenOddSum;
 
 
 public class OperatorController {
@@ -23,8 +24,14 @@ public class OperatorController {
 		 
 		 //2015.07.10 Switch 문 ssn남자 ,여자 판별기
 		 ManOrWoman manOrWoman = new ManOrWoman();
-		 manOrWoman.ssn(); //ssn() 원 클래스의 메소드 이름이다.
+		 //manOrWoman.ssn(); //ssn() 원 클래스의 메소드 이름이다.
+		 
+		 //2015.07.13 for loop +if 문
+		 EvenOddSum evenOddSum = new EvenOddSum();
+		 evenOddSum.calc(); //객체가 메소드를 호출한다.
+		 
 	
+		 
 	}
 	
 
