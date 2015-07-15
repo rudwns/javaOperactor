@@ -9,6 +9,8 @@ import java.util.Scanner;
 */
 public class InputMax {
 	public static void main(String[] args) {
+		
+	 
 		//선언부
 		System.out.println("3 개의 숫자를 입력하세요");
 		Scanner scan = new Scanner(System.in);

@@ -1,5 +1,8 @@
 package controller;
 
+import javax.swing.InputMap;
+
+import array.InputMax;
 import condition.ArithmeticCalc;
 import condition.CalcAvg;
 import condition.ManOrWoman;
@@ -28,7 +31,8 @@ public class OperatorController {
 		 
 		 //2015.07.13 for loop +if 문
 		 EvenOddSum evenOddSum = new EvenOddSum();
-		 evenOddSum.calc(); //객체가 메소드를 호출한다.
+		 //evenOddSum.calc(); //객체가 메소드를 호출한다.
+		 
 		 
 	
 		 
